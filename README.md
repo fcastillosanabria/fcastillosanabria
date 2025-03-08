@@ -1,45 +1,75 @@
-<img src="https://fcastillosanabria.github.io/img/logoLinux.png" alt="Reddy Prasad" align="left" width="600" height="600">
-
-![](https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA)
-
-<p align="center">
-	<a href="https://github.com/reddyprasade"><img src="https://img.shields.io/github/followers/reddyprasade.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/ReddyPrasade"><img src="https://img.shields.io/twitter/follow/ReddyPrasade?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://in.linkedin.com/in/reddy-prasad-e-03b12656"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedinColor=orange" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/reddyprasade"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=orange" alt="GitHub Sponsors"></a>
-	
-</p>
+ ![Profile_Banner_with_text_cutted_top](https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png)
 
 ---
 
-<p>Francis Castillo Sanabria es un <b>programador creativo e innovador</b>, apasionado por la tecnología. Su vocación por esta disciplina se manifestó desde los primeros años de su carrera como Analista de Sistemas, donde fue reconocido por su capacidad artística y lógica en el desarrollo de software.</p>  
+<details align="middle">
+<summary>Open profile</summary>
 
-<p>Destaca por su constancia y disciplina, cualidades que le han permitido ejecutar ideas innovadoras en diversos proyectos y en las empresas donde estubo. Siempre está dispuesto a aprender nuevas tecnologías, metodologías y a participar en proyectos que contribuyan al desarrollo de su comunidad y de su país.
+<br />
 
-Actualmente, reside en Lima, Perú.</p>
+[comment]: <> (View Counter)
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges" /> </p>
 
------
-Portafolio: [fcastillosanabria](https://fcastillosanabria.github.io/)
+---
+
+<br />
+
+[comment]: <> (Links to programming languages)
+<h3 align="center"><b>Languages:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[comment]: <> (Links to other computer related stuff)
+<h3 align="center"><b>Hobby Projects:</h3>
+<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
+
+<br />
+<br />
+
+---
+
+[comment]: <> (Extend Catistics)
+<details>
+
+[comment]: <> (Most used languages)
+<summary align="center">About me :mag:</summary>
+<br/>
+
+[comment]: <> (Github statistics)
+
+
+<h1 align="center"> Hi! I'm Francis Castillo Sanabria <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+
+<p align="left">Francis Castillo Sanabria es un <b>programador creativo e innovador</b>, apasionado por la tecnología. Su vocación por esta disciplina se manifestó desde los primeros años de su carrera como Analista de Sistemas, donde fue reconocido por su capacidad artística y lógica en el desarrollo de software.</p>  <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+<p align="left">Destaca por su constancia y disciplina, cualidades que le han permitido ejecutar ideas innovadoras en diversos proyectos y en las empresas donde estubo. Siempre está dispuesto a aprender nuevas tecnologías, metodologías y a participar en proyectos que contribuyan al desarrollo de su comunidad y de su país. Actualmente, reside en Lima, Perú.</p>
+
+
+<div align="left">
+  Pagina Web: <a href="https://fcastillosanabria.github.io/">fcastillosanabria</a>
+</div>
 
 <br>
+<br>
 
-## 🖥️ My tech stacks :
+</details>
 
-<p align="right">
+
+---
+
+[comment]: <> (Extend trophies)
+<details>
+<summary align="center"> Technologies :gear:</summary>
+	<br>
+	<br>
+<p>
   <h3><i>Hosting providers:</i></h3>
-  <table>
+  <table align="center">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
-      </a>
-      <br>IPC
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -47,17 +77,15 @@ Portafolio: [fcastillosanabria](https://fcastillosanabria.github.io/)
       </a>
       <br>Netlify
     </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
-      </a>
-      <br>OpenStack
-    </td>
   </tr>
 </table>
+</p>
+
+<br>
+
 <p>
   <h3><i>Languages:</i></h3>
-  <table>
+  <table align="center">
   <tr border: none;>
    <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -89,36 +117,21 @@ Portafolio: [fcastillosanabria](https://fcastillosanabria.github.io/)
       </a>
       <br>Python
     </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
-      </a>
-      <br>YAML
-    </td>
   </tr>
 </table>
 </p>
+
+<br>
+
 <p>
   <h3><i>Operating Systems:</i></h3>
-  <table>
+  <table align="center">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
-      </a>
-      <br>macOS
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
-      </a>
-      <br>Red Hat
     </td>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -135,9 +148,12 @@ Portafolio: [fcastillosanabria](https://fcastillosanabria.github.io/)
   </tr>
 </table>
 </p>
+
+<br>
+
 <p>
   <h3><i>Other tools:</i></h3>
-  <table>
+  <table align="center">
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
@@ -216,3 +232,27 @@ Portafolio: [fcastillosanabria](https://fcastillosanabria.github.io/)
   </tr>
 </table>
 </p>
+	<br>
+	<br>
+</details>
+
+---
+
+<details>
+<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
+<br />
+<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
+	
+</details>
+
+</details>
+
+---
+
+
+![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
+
+------
+<div align="left">
+  Pagina Web: <a href="https://fcastillosanabria.github.io/">fcastillosanabria</a>
+</div>
