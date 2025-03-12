@@ -15,12 +15,22 @@
 <br />
 
 [comment]: <> (Links to programming languages)
-<h3 align="center"><b>Languages:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-[comment]: <> (Links to other computer related stuff)
-<h3 align="center"><b>Hobby Projects:</h3>
-<p align="center"> <a href="https://github.com/MCCTeam/Minecraft-Console-Client" target="_blank"> <img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"/> </a> <a href="https://manjaro.org/" target="_blank"> <img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"/> </a> <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw" target="_blank"> <img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"/> </a>
+<h3 align="center"><b>Languages:</b></h3>
+<br>
+<p align="center">
+  <a href="https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="Español" width="40" height="30"/>
+  </a>
+	<br>
+  <b>Español - Nativo</b>
+	<br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/English_language" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="40" height="30"/>
+  </a>
+	<br>
+  <b>Inglés - Intermedio</b>
+</p>
 
 <br />
 <br />
@@ -239,11 +249,17 @@
 ---
 
 <details>
-<summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-<br />
-<p align="center">  <img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes"></a>
-	
+  <summary align="center"><b>Contact Me :email:</b></summary>
+  <br />
+  <p align="center">
+    <a href="mailto:tucorreo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/tuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://github.com/tuusuario"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+  <br />
 </details>
+
 
 </details>
 
